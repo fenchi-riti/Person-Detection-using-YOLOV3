@@ -1,4 +1,4 @@
-# Person-Detection-using-YOLOV3
+# Project2- IndonesiaAI- Person-Detection-using-YOLOV3
 Person Detection
 **Background** 
 - Deteksi manusia merupakan salah hal kemampuan unik dalam bidang Visi Komputer untuk menemukan lokasi objek(manusia) baik dalam gambar maupun video.
