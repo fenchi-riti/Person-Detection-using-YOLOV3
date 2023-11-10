@@ -43,7 +43,7 @@ Download cgf file ![image](https://github.com/fenchi-riti/Person-Detection-using
 Inference Latency: 6.0535 seconds
 ![image](https://github.com/fenchi-riti/Person-Detection-using-YOLOV3/assets/72839436/92f0a1a0-c0fa-4a13-9b3f-65b5bc6fe23a)
 
-
+Untuk menjalankan YOLOV3_Custom.ipynb, maka files yang diperlukan perlu diakses melalui: https://drive.google.com/drive/folders/14dzLS2aKO8qZ2esqu2ZlKKdkCKPysToq?usp=sharing
 
 
 
